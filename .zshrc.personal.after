@@ -1,0 +1,4 @@
+# Homebrew
+export PATH=$PATH:/usr/local/bin
+
+alias tar="/opt/local/bin/gnutar"
