@@ -1,3 +1,4 @@
 ZSH_THEME="terminalparty"
+DISABLE_MAGIC_FUNCTIONS="true"
+
 plugins=(ansible autopep8 aws bower compleat docker docker-compose extract gem git git-extras git-flow git-hubflow git-prompt github gitignore golang grunt gulp helm iterm2 kate kubectl man mvn node npm nvm pep8 pip pyenv pylint python scala screen ssh-agent sudo vagrant yarn z zsh-navigation-tools)
-# zstyle :omz:plugins:ssh-agent identities id_rsa
