@@ -6,3 +6,5 @@ fi
 
 # make sure rust is active
 [ -f ~/.cargo/env ] && source $HOME/.cargo/env
+
+alias kubectl="minikube kubectl --"
