@@ -8,3 +8,6 @@ fi
 [ -f ~/.cargo/env ] && source $HOME/.cargo/env
 
 alias kubectl="minikube kubectl --"
+
+export PATH=$PATH:/usr/local/lib/go/bin
+
