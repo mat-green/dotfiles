@@ -17,6 +17,3 @@ export PATH="/usr/local/sbin:$PATH"
 
 alias tar="/opt/local/bin/gnutar"
 
-# Load asdf
-. $HOME/.asdf/asdf.sh
-. $HOME/.asdf/completions/asdf.bash
