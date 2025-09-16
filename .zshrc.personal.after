@@ -14,6 +14,9 @@ export PKG_CONFIG_PATH="/opt/homebrew/opt/libffi/lib/pkgconfig"
 # For pkg-config to find zlib you may need to set:
 export PKG_CONFIG_PATH="${PKG_CONFIG_PATH} /opt/homebrew/opt/zlib/lib/pkgconfig"
 
+# ASDF
+export PATH="$HOME/.asdf/shims/:$PATH"
+
 # Homebrew
 export PATH="/usr/local/sbin:$PATH"
 
