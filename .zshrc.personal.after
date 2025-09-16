@@ -21,3 +21,5 @@ export PATH="$HOME/.asdf/shims/:$PATH"
 export PATH="/usr/local/sbin:$PATH"
 
 alias tar="/opt/local/bin/gnutar"
+
+alias docker="podman"
